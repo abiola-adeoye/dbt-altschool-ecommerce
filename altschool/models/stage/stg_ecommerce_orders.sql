@@ -9,7 +9,6 @@ select
     order_id,
     user_id,
 
-
     -- timestamp
     gender,
     created_at,
