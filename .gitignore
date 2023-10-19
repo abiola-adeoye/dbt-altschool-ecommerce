@@ -1,0 +1,9 @@
+/venv
+
+.idea
+
+/logs
+
+.user.yml
+
+logs
